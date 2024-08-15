@@ -41,6 +41,7 @@
 <a href='' target="_blank"><img alt='python' src='https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=FFFFFF&color=3776AB'/></a>
 <a href='' target="_blank"><img alt='dart' src='https://img.shields.io/badge/dart-100000?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=FFFFFF&color=0175C2'/></a>
 <a href='' target="_blank"><img alt='flutter' src='https://img.shields.io/badge/flutter-100000?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=FFFFFF&color=02569B'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Mysql' src='https://img.shields.io/badge/Mysql-100000?style=for-the-badge&logo=Mysql&logoColor=4479A1&labelColor=FFFFFF&color=4479A1'/></a>
 
 ---
 <br>
