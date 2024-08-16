@@ -25,7 +25,7 @@
 
 ### 🛡️ soft skills 🛡️
 
-<p><b> 🔧 Problem Solving   🫱🏾‍🫲🏻 TeamWork   🩵 empathy<b>
+<p><b> 🔧 Problem Solving   🤝🏾 TeamWork   💙 empathy<b>
 </p>
 
 ---
