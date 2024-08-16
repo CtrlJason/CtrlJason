@@ -60,15 +60,15 @@
 <br>
 
 <div align="center"> 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=CtrlJason&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="CtrlJason's GitHub Stats" />
-<img width="303" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlJason&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="CtrlJason's GitHub Stats" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=CtrlJason&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="CtrlJason's GitHub Stats" />
+<img width="303" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlJason&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="CtrlJason's GitHub Stats" />
 </div>
 
 <br>
 <br>
 
 <div align="center"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CtrlJason&theme=tokyonight&hide_border=true" alt="CtrlJason's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CtrlJason&theme=prussian&hide_border=true" alt="CtrlJason's GitHub Stats" />
 </div>
 
 ### Credit to 
