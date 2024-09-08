@@ -34,17 +34,13 @@
 
 ### 🤖 Programming Languages 🤖
 
-<a href='' target="_blank"><img alt='html5' src='https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=FFFFFF&color=E34F26'/></a>
-<a href='' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=FFFFFF&color=1572B6'/></a>
-<a href='' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=FFBD00&labelColor=FFFFFF&color=FFBD00'/></a>
-<a href='' target="_blank"><img alt='cplusplus' src='https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=FFFFFF&color=00599C'/></a>
-<a href='' target="_blank"><img alt='python' src='https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=FFFFFF&color=3776AB'/></a>
-<a href='' target="_blank"><img alt='dart' src='https://img.shields.io/badge/dart-100000?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=FFFFFF&color=0175C2'/></a>
-<a href='' target="_blank"><img alt='flutter' src='https://img.shields.io/badge/flutter-100000?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=FFFFFF&color=02569B'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Mysql' src='https://img.shields.io/badge/Mysql-100000?style=for-the-badge&logo=Mysql&logoColor=4479A1&labelColor=FFFFFF&color=4479A1'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Docker' src='https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=Docker&logoColor=2496ED&labelColor=FFFFFF&color=2496ED'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Django' src='https://img.shields.io/badge/Django-100000?style=for-the-badge&logo=Django&logoColor=092E20&labelColor=FFFFFF&color=092E20'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='wordpress' src='https://img.shields.io/badge/wordpress-100000?style=for-the-badge&logo=wordpress&logoColor=21759B&labelColor=FFFFFF&color=21759B'/></a>
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)
+![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=for-the-badge)
+![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)
+![Firebase Badge](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=fff&style=for-the-badge)
 
 ---
 <br>
