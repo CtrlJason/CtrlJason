@@ -36,11 +36,14 @@
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)
 ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=for-the-badge)
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)
 ![Firebase Badge](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=fff&style=for-the-badge)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
+
 
 ---
 <br>
@@ -49,6 +52,7 @@
   ### Best projects <br><br>
   
   <a href="https://github.com/CtrlJason/bomberman_master_explotion"><img alt="In progress" width="200" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47xfarkqndqddzmcn3fsz7gbqm2nyufbzx4q1p5f4d&ep=v1_gifs_related&rid=giphy.gif&ct=g"></a>
+  
   <a href="https://github.com/CtrlJason/DeliZoneRestaurantes"><img alt="Sitio web" width="200" src="https://firebasestorage.googleapis.com/v0/b/delizone-1a227.appspot.com/o/DeliZone%2FCliente%2FLocoConTextoInvertido.svg?alt=media&token=fb035234-e1dd-4174-96a6-d1b4111889cc"></a>
   
 </div>
