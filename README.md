@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center"> 
   Hi, I'm Yeison Mosquera <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBoMnZhNTk1eGJkNWU2MG4ya2R0N2dkaXg4ajF6eTZ0NGp5bzYzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hnNyVPIXgLdle/giphy.gif" width="40">
 </h1>
