@@ -1,85 +1,102 @@
+<div align="center">
+  <img src="https://via.placeholder.com/800x200/FF69B4/000000?text=Yeison's+Galaxy+One+-+Chookity+Pok!+🚀🌌" alt="Final Space Banner" width="100%">
+</div>
+
 <h1 align="center"> 
-  Hi, I'm Yeison Mosquera <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBoMnZhNTk1eGJkNWU2MG4ya2R0N2dkaXg4ajF6eTZ0NGp5bzYzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hnNyVPIXgLdle/giphy.gif" width="40">
+  👾 Yo, I'm Yeison Mosquera — Captain of Code! 🚀
 </h1>
 
-<p align="center"><b>I have knowledge in e-commerce and mobile development. My goal is to become a freelancer and work as a junior developer.</b></p>
+<p align="center">
+  <b>Full Stack Developer blasting web apps with Django + React. Deploying at lightspeed with Nginx, Gunicorn, and GitHub Actions. Currently orbiting <a href="https://cloudcity.com.co">CloudCity Colombia</a>. Hoonk! 🌌</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yeison-david-mosquera-murillo-55a142222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:yeisondamosquera@gmail.com"><img src="https://img.shields.io/badge/Intergalactic_Mail-EA4335?logo=gmail&logoColor=fff&style=flat-square" alt="Gmail"></a>
+  <a href="https://wa.link/ygzb40"><img src="https://img.shields.io/badge/Space_Chat-25D366?logo=whatsapp&logoColor=fff&style=flat-square" alt="WhatsApp"></a>
+</p>
 
 ---
 
-### 🛸 GitHub Trophies
-<details align="center"> 
-  <summary>Click to expand</summary>
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-      <img src="https://github-profile-trophy.vercel.app/?username=CtrlJason&theme=darkhub&margin-w=15" />
-    </a>
-  </p>
-</details>
+### 🌠 About Me — Space Log
+
+- 💾 **Mission**: Crafting web apps, from tiny asteroids to massive motherships.  
+- ⚡️ **Frontend**: React (with Redux thrusters), scouting SolidJS for the next jump.  
+- 🪐 **Backend**: Django with REST APIs, PostgreSQL, and laser-focused security.  
+- 🚀 **Space Ops**: Nginx, Gunicorn, and CI/CD with GitHub Actions.  
+- 🏭 **Base**: Full Stack Developer at [CloudCity Colombia](https://cloudcity.com.co).  
+- 🍪 **Obsession**: Secure access systems (chookity-level protection).  
+- 🌟 **Endgame**: Code my way to freedom, Gary Goodspeed-style!
 
 ---
 
-### 📡 Contact me
+### 💫 Why I'm Not Just Another Space Potato
 
-<a href='https://www.linkedin.com/in/yeison-david-mosquera-murillo-55a142222/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=00B4D8&labelColor=FFFFFF&color=00B4D8'/></a> 
-<a href="mailto:yeisondamosquera@gmail.com" target="_blank"><img alt='gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&logoColor=EF233C&labelColor=FFFFFF&color=EF233C'/></a>
-<a href='https://wa.link/ygzb40' target="_blank"><img alt='whatsapp' src='https://img.shields.io/badge/Whatsapp-100000?style=for-the-badge&logo=whatsapp&logoColor=06D6A0&labelColor=FFFFFF&color=06D6A0'/></a>
+> *"I crash, I code, I conquer — with a side of cookies!"*
 
----
-
-### 🌌 Soft Skills
-
-**🔧 Problem Solving &nbsp; 🤝🏾 TeamWork &nbsp; 💙 Empathy**
+- 🛡️ **Resilience**: I bounce back like Quinn after a wormhole collapse.  
+- 🎨 **Creativity**: I build solutions weirder than a S.A.M.E.S. party.  
+- 🔭 **Vision**: I zoom out to see the galaxy and zoom in for the bolts.
 
 ---
 
-### 🤖 Programming Languages
+### 🛸 Tech Arsenal
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)
+| Frontend | Backend | Deployment | Gadgets |
+|----------|---------|------------|---------|
+| <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" alt="CSS3"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=fff&style=flat-square" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React"> | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat-square" alt="Django"> | <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff&style=flat-square" alt="Nginx"> <img src="https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=fff&style=flat-square" alt="Gunicorn"> | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=fff&style=flat-square" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square" alt="Git"> |
 
 ---
 
-### 🚀 Featured Projects
-<div align="center"> 
-  
-<a href="https://github.com/CtrlJason/bomberman_master_explotion">
-  <img alt="In progress" width="200" src="https://media.giphy.com/media/dxzU1Xit8FZP6/giphy.gif">
-</a>
+### 🧠 Crew Skills
 
-<a href="https://github.com/CtrlJason/DeliZoneRestaurantes">
-  <img alt="Sitio web" width="200" src="https://firebasestorage.googleapis.com/v0/b/delizone-1a227.appspot.com/o/DeliZone%2FCliente%2FLocoConTextoInvertido.svg?alt=media&token=fb035234-e1dd-4174-96a6-d1b4111889cc">
-</a>
+- 🌍 **Empathy**: I vibe with users and crewmates alike.  
+- 🎯 **Discipline**: I hit deadlines faster than Little Cato hits targets.  
+- 🤝 **Teamwork**: Stronger together, like the Galaxy One squad.  
+- 🛠️ **Problem Solving**: I fix bugs like KVN fixes... well, nothing.
+
+---
+
+### 🪐 Featured Missions
+
+<div align="center">
+
+#### [Bomberman Master Explosion](https://github.com/CtrlJason/bomberman_master_explotion)
+<img src="https://http.cat/401" width="150" alt="Project in progress">
+<p><b>🌋 Classified!</b> — A game so explosive, it’s still in hyperspace. Expect chaos soon! 💥</p>
+
+#### [Portfolio Starship](https://github.com/CtrlJason/portfolio)
+<img src="https://http.cat/200" width="150" alt="Portfolio">
+<p><b>🪐 Docked & Ready</b> — My React + Tailwind showcase, orbiting the web. 🍪</p>
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
-<div align="center"> 
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=CtrlJason&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="CtrlJason's GitHub Stats" />
-  <img width="303" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlJason&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="CtrlJason's GitHub Languages" />
+### 📡 Space Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CtrlJason&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlJason&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="300">
 </div>
 
-<br>
-
-<div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CtrlJason&theme=tokyonight&hide_border=true" alt="CtrlJason's GitHub Streak" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CtrlJason&theme=radical&hide_border=true" alt="GitHub Streak">
 </div>
 
 ---
 
-### 🎨 Credit
-- GIFs by [**GIPHY**](https://giphy.com/)
-- Readme customized in the style of **Final Space** ✨
+### 📟 Beam Me Up!
+
+<p align="center pins">
+  <a href="https://www.linkedin.com/in/yeison-david-mosquera-murillo-55a142222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:yeisondamosquera@gmail.com"><img src="https://img.shields.io/badge/Intergalactic_Mail-EA4335?logo=gmail&logoColor=fff&style=flat-square" alt="Gmail"></a>
+  <a href="https://wa.link/ygzb40"><img src="https://img.shields.io/badge/Space_Chat-25D366?logo=whatsapp&logoColor=fff&style=flat-square" alt="WhatsApp"></a>
+</p>
 
 ---
 
-📅 Last Edited on: 04/11/2025  
-🛰️ By: [Yeison Mosquera](https://github.com/CtrlJason)
-```
+<p align="center">
+  <i>🛸 Last transmission: April 11, 2025</i><br>
+  <b>Powered by 💾 & 🍪 by <a href="https://github.com/CtrlJason">Yeison Mosquera</a></b>
+</p>
