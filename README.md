@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yeison-david-mosquera-murillo-55a142222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"></a>
-  <a href="mailto:yeisondamosquera@gmail.com"><img src="https://img.shields.io/badge/Intergalactic_Mail-EA4335?logo=gmail&logoColor=fff&style=flat-square" alt="Gmail"></a>
-  <a href="https://wa.link/ygzb40"><img src="https://img.shields.io/badge/Space_Chat-25D366?logo=whatsapp&logoColor=fff&style=flat-square" alt="WhatsApp"></a>
+  <a href="https://www.linkedin.com/in/yeison-david-mosquera-murillo-55a142222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:yeisondamosquera@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Intergalactic_Mail-EA4335?logo=gmail&logoColor=fff&style=flat-square" alt="Gmail"></a>
+  <a href="https://wa.link/ygzb40" target="_blank"><img src="https://img.shields.io/badge/Space_Chat-25D366?logo=whatsapp&logoColor=fff&style=flat-square" alt="WhatsApp"></a>
 </p>
 
 ---
@@ -89,9 +89,9 @@
 ### 📟 Beam Me Up!
 
 <p align="center pins">
-  <a href="https://www.linkedin.com/in/yeison-david-mosquera-murillo-55a142222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"></a>
-  <a href="mailto:yeisondamosquera@gmail.com"><img src="https://img.shields.io/badge/Intergalactic_Mail-EA4335?logo=gmail&logoColor=fff&style=flat-square" alt="Gmail"></a>
-  <a href="https://wa.link/ygzb40"><img src="https://img.shields.io/badge/Space_Chat-25D366?logo=whatsapp&logoColor=fff&style=flat-square" alt="WhatsApp"></a>
+  <a href="https://www.linkedin.com/in/yeison-david-mosquera-murillo-55a142222/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:yeisondamosquera@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Intergalactic_Mail-EA4335?logo=gmail&logoColor=fff&style=flat-square" alt="Gmail"></a>
+  <a href="https://wa.link/ygzb40" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Space_Chat-25D366?logo=whatsapp&logoColor=fff&style=flat-square" alt="WhatsApp"></a>
 </p>
 
 ---
