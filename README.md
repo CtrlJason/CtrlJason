@@ -1,6 +1,7 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://via.placeholder.com/800x200/FF69B4/000000?text=Yeison's+Galaxy+One+-+Chookity+Pok!+🚀🌌" alt="Final Space Banner" width="100%">
 </div>
+-->
 
 <h1 align="center"> 
   👾 Yo, I'm Yeison Mosquera — Captain of Code! 🚀
