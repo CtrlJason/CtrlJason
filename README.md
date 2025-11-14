@@ -1,84 +1,211 @@
-<!-- <div align="center">
-  <img src="https://via.placeholder.com/800x200/FF69B4/000000?text=Yeison's+Galaxy+One+-+Chookity+Pok!+🚀🌌" alt="Final Space Banner" width="100%">
-</div>
--->
-
-<h1 align="center"> 
-  👾 Yo, I'm Yeison Mosquera — Captain of Code! 🚀
+<h1 align="center">
+  👾 Yeison Mosquera — Full Stack Developer
 </h1>
 
 <p align="center">
-  <b>Full Stack Developer blasting web apps with Django + React. Deploying at lightspeed with Nginx, Gunicorn, and GitHub Actions. Currently orbiting <a href="https://cloudcity.com.co">CloudCity Colombia</a>. Hoonk! 🌌</b>
+  <b>Building scalable web applications with React, NestJS & TypeScript.<br>
+  Currently @ <a href="https://cloudcity.com.co">CloudCity Colombia</a></b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yeison-david-mosquera-murillo-55a142222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"></a>
-  <a href="mailto:yeisondamosquera@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Intergalactic_Mail-EA4335?logo=gmail&logoColor=fff&style=flat-square" alt="Gmail"></a>
-  <a href="https://wa.link/ygzb40" target="_blank"><img src="https://img.shields.io/badge/Space_Chat-25D366?logo=whatsapp&logoColor=fff&style=flat-square" alt="WhatsApp"></a>
+  <a href="mailto:yeisondamosquera@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff&style=flat-square" alt="Gmail"></a>
+  <a href="https://wa.link/ygzb40" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat-square" alt="WhatsApp"></a>
+  <a href="https://j-dev-solutions-m9394x7x4-ctrljasons-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=fff&style=flat-square" alt="Portfolio"></a>
 </p>
 
 ---
 
-### 🌠 About Me — Space Log
+## 👨‍💻 About Me
 
-- 💾 **Mission**: Crafting web apps, from tiny asteroids to massive motherships.  
-- ⚡️ **Frontend**: React (with Redux thrusters), scouting SolidJS for the next jump.  
-- 🪐 **Backend**: Django with REST APIs, PostgreSQL, and laser-focused security.  
-- 🚀 **Space Ops**: Nginx, Gunicorn, and CI/CD with GitHub Actions.  
-- 🏭 **Base**: Full Stack Developer at [CloudCity Colombia](https://cloudcity.com.co).  
-- 🍪 **Obsession**: Secure access systems (chookity-level protection).  
-- 🌟 **Endgame**: Code my way to freedom, Gary Goodspeed-style!
+Full Stack Developer with experience building and refactoring enterprise applications. Specialized in React/TypeScript frontends and NestJS backends with clean, scalable architectures. I solve complex problems, meet tight deadlines, and deliver production-ready solutions.
 
----
-
-### 💫 Why I'm Not Just Another Space Potato
-
-> *"I crash, I code, I conquer — with a side of cookies!"*
-
-- 🛡️ **Resilience**: I bounce back like Quinn after a wormhole collapse.  
-- 🎨 **Creativity**: I build solutions weirder than a S.A.M.E.S. party.  
-- 🔭 **Vision**: I zoom out to see the galaxy and zoom in for the bolts.
+- 🚀 **Current Role:** Full Stack Developer at [CloudCity Colombia](https://cloudcity.com.co)
+- 🎯 **Focus:** Building efficient, maintainable web applications
+- 🌱 **Learning:** Advanced English (A2 → B2)
+- 💡 **Approach:** Pragmatic problem-solving with modern tools
 
 ---
 
-### 🛸 Tech Arsenal
+## 🛠️ Tech Stack
 
-| Frontend | Backend | Deployment | Gadgets |
-|----------|---------|------------|---------|
-| <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" alt="CSS3"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=fff&style=flat-square" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React"> | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat-square" alt="Django"> | <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff&style=flat-square" alt="Nginx"> <img src="https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=fff&style=flat-square" alt="Gunicorn"> | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=fff&style=flat-square" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square" alt="Git"> |
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=fff&style=flat-square)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=flat-square)
+
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=flat-square)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
+
+### Databases & ORMs
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=flat-square)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=fff&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square)
+
+### Other
+![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=fff&style=flat-square)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=fff&style=flat-square)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat-square)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=fff&style=flat-square)
 
 ---
 
-### 🧠 Crew Skills
+## 🚀 Featured Projects
 
-- 🌍 **Empathy**: I vibe with users and crewmates alike.  
-- 🎯 **Discipline**: I hit deadlines faster than Little Cato hits targets.  
-- 🤝 **Teamwork**: Stronger together, like the Galaxy One squad.  
-- 🛠️ **Problem Solving**: I fix bugs like KVN fixes... well, nothing.
+### 🎮 Educational Games Suite — Cámara de Comercio Bogotá
+**3 entrepreneurship games | 4-month development cycle**
+
+⚠️ *Proprietary project — code under NDA*
+
+Developed 3 interactive educational games about entrepreneurship for a Colombian government institution public event.
+
+**My Responsibilities:**
+- Full game development and programming in Godot Engine
+- Animations using Adobe Animate and AnimatedSprite nodes
+- Project organization and modular architecture
+- SCORM packaging for LMS integration
+- Documentation and QA testing
+
+**Technical Highlights:**
+- **Architecture:** Modular design with reusable components (globals, layouts, mini-games, modals)
+- **Systems:** Save/load system, analytics tracking, settings management
+- **Challenge:** Limited Godot documentation, aggressive timeline (3 games in 3 months + testing)
+
+**Result:** ✅ Successfully delivered all 3 games on schedule, deployed at public event
+
+**Stack:** Godot, GDScript, Adobe Animate, SCORM
 
 ---
 
-### 🪐 Featured Missions
+### 🏗️ Falcon — Wheelchair Assistance Platform Refactoring
+**Complete architectural overhaul of airport wheelchair service platform**
+
+⚠️ *Proprietary project — CloudCity Colombia*
+
+Refactored a production web application for managing wheelchair runners at airports. The platform connects supervisors who assign services to mobile app runners.
+
+**The Problem:**
+- Chaotic React codebase with all business logic in Context components
+- Poor separation of concerns (components, pages, styles mixed)
+- Weak TypeScript typing and inconsistent patterns
+- Express backend with all logic in route handlers
+- No clear project structure or architectural patterns
+
+**My Solution (80% of refactoring work):**
+
+**Frontend:**
+- Separated business logic into custom hooks
+- Contexts refactored to only transmit data via providers
+- Implemented React Query for server state management
+- Integrated Axios for API calls
+- Added React Hot Toast for notifications
+- Proper TypeScript typing throughout
+- Implemented React Hook Form with Zod validation
+
+**Backend:**
+- Implemented repository pattern for database operations (Mongoose models)
+- Created service layer for business logic
+- Extracted utilities for reusable code
+- Routes now only handle HTTP requests/responses
+- Improved MongoDB queries and indexing
+
+**Results:**
+- ✅ Clean, maintainable architecture following industry patterns
+- ✅ Proper separation of concerns (repositories, services, utils)
+- ✅ Delivered in 5 days under tight deadline
+- ✅ Successfully deployed to production
+
+**Stack:** React, TypeScript, Express, Mongoose, MongoDB, React Query, Axios, Socket.io
+
+---
+
+### 🎓 Moodle LMS Migration — ANLA
+**Enterprise-level migration from Moodle 4.1.3 to 5.1 LTS**
+
+⚠️ *Ongoing project — CloudCity Colombia*
+
+Large-scale migration for Colombia's National Environmental Licensing Authority (ANLA).
+
+**Scope:**
+- 32 course versions across 9 different courses
+- Plugin compatibility testing and updates
+- Custom business logic migration (registration forms, enrollment rules, certificates)
+- AI assistant integration (GeniAI plugin)
+- Custom Excel reporting modules for characterization data and surveys
+
+**My Role (Team of 3 developers):**
+- Full-stack development support across migration tasks
+- Expected responsibilities: Course migration, plugin updates, custom module development
+
+**Technologies:** Moodle 5.1 LTS, PHP, MySQL, JavaScript, GeniAI Plugin
+
+**Timeline:** 2 months | **Status:** In progress
+
+---
+
+### 🐾 Mascotas Eddisson
+**Pet health management & natural food e-commerce platform** *(Independent Client Project)*
+
+Full-stack web platform and mobile app for pet health tracking and natural food ordering.
+
+**Core Features:**
+- **Pet Management:** Registration with photos, breed, age, clinical records, and medical history
+- **Health Tracking:** Weight monitoring with automated food recommendations
+- **E-commerce:** Natural food catalog with customizable protein options and ingredients
+- **Shopping Cart:** Order management with payment gateway integration (MercadoPago/PayU)
+- **Order Tracking:** Real-time notifications (processing, shipped, delivered)
+- **Admin Dashboard:** User/pet management, daily order control, sales reports and statistics
+
+**Technical Implementation:**
+- **Frontend:** React 19, TypeScript, React Query, React Hook Form, Zod validation
+- **Backend:** NestJS, Prisma ORM, PostgreSQL
+- **Auth:** JWT with httpOnly cookies, bcrypt password hashing
+- **Storage:** Cloudinary for image management
+- **Email:** Nodemailer with Handlebars templates
+- **Mobile:** React Native app planned
+
+**Status:** MVP in development (2-4 months timeline)
+
+**Stack:** React, TypeScript, NestJS, Prisma, PostgreSQL, React Query, Cloudinary
+
+---
+
+### 👴 Hogar Abuela Sara
+**Senior care landing page** *(Independent Client Project)*
+
+Single-page application for senior care service marketing and information.
+
+**Original Scope:** Full platform with doctor dashboard (reduced due to budget constraints)
+
+**Delivered:**
+- Clean, accessible UI optimized for target audience
+- Service information and pricing
+- Contact integration
+- Responsive design
+
+**Stack:** React, Django, Python, Tailwind CSS
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-#### [Bomberman Master Explosion](https://github.com/CtrlJason/bomberman_master_explotion)
-<img src="https://http.cat/401" width="150" alt="Project in progress">
-<p><b>🌋 Classified!</b> — A game so explosive, it’s still in hyperspace. Expect chaos soon! 💥</p>
-
-#### [Portfolio Starship](https://github.com/CtrlJason/portfolio)
-<img src="https://http.cat/200" width="150" alt="Portfolio">
-<p><b>🪐 Docked & Ready</b> — My React + Tailwind showcase, orbiting the web. 🍪</p>
-
-</div>
-
----
-
-### 📡 Space Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CtrlJason&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlJason&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="300">
+  <img src="https://github-readme-stats.vercel.app/api?username=CtrlJason&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="420">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlJason&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="320">
 </div>
 
 <div align="center">
@@ -87,17 +214,30 @@
 
 ---
 
-### 📟 Beam Me Up!
+## 💼 What I Bring
 
-<p align="center pins">
-  <a href="https://www.linkedin.com/in/yeison-david-mosquera-murillo-55a142222/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"></a>
-  <a href="mailto:yeisondamosquera@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Intergalactic_Mail-EA4335?logo=gmail&logoColor=fff&style=flat-square" alt="Gmail"></a>
-  <a href="https://wa.link/ygzb40" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Space_Chat-25D366?logo=whatsapp&logoColor=fff&style=flat-square" alt="WhatsApp"></a>
+- **Problem Solving:** I analyze complex systems and deliver practical, scalable solutions
+- **Architectural Thinking:** I design clean, maintainable codebases following industry patterns
+- **Fast Learning:** I adapt quickly to new technologies and frameworks under pressure
+- **Pragmatism:** I leverage modern tools efficiently to deliver quality work on tight deadlines
+- **Full-Stack Expertise:** I handle frontend, backend, and database layers with equal confidence
+- **Production Focus:** I write code that ships and performs in real-world scenarios
+- **Maintenance & Support:** Experienced debugging production issues, fixing forms/API bugs, and maintaining enterprise applications
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yeison-david-mosquera-murillo-55a142222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:yeisondamosquera@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff&style=flat-square" alt="Gmail"></a>
+  <a href="https://wa.link/ygzb40" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat-square" alt="WhatsApp"></a>
+  <a href="https://j-dev-solutions-m9394x7x4-ctrljasons-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=fff&style=flat-square" alt="Portfolio"></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>🛸 Last transmission: April 11, 2025</i><br>
-  <b>Powered by 💾 & 🍪 by <a href="https://github.com/CtrlJason">Yeison Mosquera</a></b>
+  <i>Open to remote opportunities | English: B1 (in progress)</i><br>
+  <b>Last updated: November 2025</b>
 </p>
