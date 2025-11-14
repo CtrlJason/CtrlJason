@@ -21,7 +21,7 @@
 Full Stack Developer building web applications with React, TypeScript, and Node.js. I've worked on enterprise projects ranging from game development to platform refactoring and e-commerce systems. I focus on writing clean, maintainable code and learning from each project.
 
 - 🚀 **Current Role:** Full Stack Developer at [CloudCity Colombia](https://cloudcity.com.co)
-- 🎯 **Experience:** 9 months formal + internship | Building production applications
+- 🎯 **Experience:** 11 months formal + internship | Building production applications
 - 🌱 **Currently Learning:** Advanced English (A2 → B2), improving architectural patterns
 - 💡 **Approach:** Solve problems pragmatically, leverage modern tools, keep learning
 
