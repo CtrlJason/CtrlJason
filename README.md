@@ -18,12 +18,12 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer with experience building and refactoring enterprise applications. Specialized in React/TypeScript frontends and NestJS backends with clean, scalable architectures. I solve complex problems, meet tight deadlines, and deliver production-ready solutions.
+Full Stack Developer building web applications with React, TypeScript, and Node.js. I've worked on enterprise projects ranging from game development to platform refactoring and e-commerce systems. I focus on writing clean, maintainable code and learning from each project.
 
 - 🚀 **Current Role:** Full Stack Developer at [CloudCity Colombia](https://cloudcity.com.co)
-- 🎯 **Focus:** Building efficient, maintainable web applications
-- 🌱 **Learning:** Advanced English (A2 → B2)
-- 💡 **Approach:** Pragmatic problem-solving with modern tools
+- 🎯 **Experience:** 9 months formal + internship | Building production applications
+- 🌱 **Currently Learning:** Advanced English (A2 → B2), improving architectural patterns
+- 💡 **Approach:** Solve problems pragmatically, leverage modern tools, keep learning
 
 ---
 
@@ -216,13 +216,13 @@ Single-page application for senior care service marketing and information.
 
 ## 💼 What I Bring
 
-- **Problem Solving:** I analyze complex systems and deliver practical, scalable solutions
-- **Architectural Thinking:** I design clean, maintainable codebases following industry patterns
-- **Fast Learning:** I adapt quickly to new technologies and frameworks under pressure
-- **Pragmatism:** I leverage modern tools efficiently to deliver quality work on tight deadlines
-- **Full-Stack Expertise:** I handle frontend, backend, and database layers with equal confidence
-- **Production Focus:** I write code that ships and performs in real-world scenarios
-- **Maintenance & Support:** Experienced debugging production issues, fixing forms/API bugs, and maintaining enterprise applications
+- **Adaptability:** I learn new technologies quickly when projects require it (picked up Godot in 1 month for game delivery)
+- **Practical Problem Solving:** I find solutions that work, even under tight deadlines
+- **Full-Stack Capability:** Comfortable working across frontend, backend, and databases
+- **Architectural Awareness:** I understand separation of concerns and can refactor messy codebases into maintainable structures
+- **Tool Leverage:** I use AI and modern tools effectively to boost productivity without compromising quality
+- **Production Experience:** I've shipped real applications used by actual users and businesses
+- **Continuous Learning:** Still growing - I make mistakes, learn from them, and improve with each project
 
 ---
 
