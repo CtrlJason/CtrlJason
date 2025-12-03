@@ -122,7 +122,7 @@ Responsive SPA for senior care services. Clean, accessible UI optimized for targ
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CtrlJason&theme=github_dark" alt="GitHub Stats" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CtrlJason&theme=transparent" alt="GitHub Stats" width="49%">
   <img src="https://streak-stats.demolab.com/?user=CtrlJason&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="49%">
 </div>
 
