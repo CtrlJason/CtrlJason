@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="200" viewBox="0 0 1200 200">
   <defs>
-    <linearGradient id="comet-tail" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:0"/>
+    <!-- Gradiente: transparente arriba (cola), blanco abajo (cabeza) -->
+    <linearGradient id="comet-tail-vertical" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0"/>
+      <stop offset="70%" style="stop-color:#ffffff;stop-opacity:0.5"/>
       <stop offset="100%" style="stop-color:#ffffff;stop-opacity:1"/>
     </linearGradient>
   </defs>
@@ -56,37 +58,58 @@
     <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="1.4s" repeatCount="indefinite"/>
   </circle>
 
+  <!-- Cometas estilo lluvia diagonal - van hacia abajo-derecha -->
   <!-- Cometa 1 -->
-  <g>
-    <line x1="0" y1="0" x2="60" y2="0" stroke="url(#comet-tail)" stroke-width="2" stroke-linecap="round" transform="rotate(25)">
-      <animateMotion dur="4s" repeatCount="indefinite">
-        <mpath href="#comet-path1"/>
-      </animateMotion>
-    </line>
-    <circle r="2" fill="white">
-      <animateMotion dur="4s" repeatCount="indefinite">
-        <mpath href="#comet-path1"/>
-      </animateMotion>
-    </circle>
+  <g transform="translate(-50, -50) rotate(-35)">
+    <rect x="-1" y="0" width="2" height="80" fill="url(#comet-tail-vertical)">
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.5s;5.3s;10.1s;14.9s;19.7s;24.5s;29.3s;34.1s;38.9s;43.7s;48.5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,300" dur="1.5s" begin="0.5s;5.3s;10.1s;14.9s;19.7s;24.5s;29.3s;34.1s;38.9s;43.7s;48.5s" repeatCount="indefinite"/>
+    </rect>
   </g>
 
   <!-- Cometa 2 -->
-  <g>
-    <line x1="0" y1="0" x2="45" y2="0" stroke="url(#comet-tail)" stroke-width="1.5" stroke-linecap="round" transform="rotate(20)">
-      <animateMotion dur="5s" begin="2s" repeatCount="indefinite">
-        <mpath href="#comet-path2"/>
-      </animateMotion>
-    </line>
-    <circle r="1.5" fill="white">
-      <animateMotion dur="5s" begin="2s" repeatCount="indefinite">
-        <mpath href="#comet-path2"/>
-      </animateMotion>
-    </circle>
+  <g transform="translate(400, -80) rotate(-35)">
+    <rect x="-1" y="0" width="2" height="70" fill="url(#comet-tail-vertical)">
+      <animate attributeName="opacity" values="0;1;0" dur="1.4s" begin="2.8s;8.2s;13.6s;19s;24.4s;29.8s;35.2s;40.6s;46s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,290" dur="1.4s" begin="2.8s;8.2s;13.6s;19s;24.4s;29.8s;35.2s;40.6s;46s" repeatCount="indefinite"/>
+    </rect>
   </g>
 
-  <!-- Paths para los cometas (invisibles) -->
-  <path id="comet-path1" d="M-50,-20 L1250,180" fill="none" stroke="none"/>
-  <path id="comet-path2" d="M100,-30 L1300,170" fill="none" stroke="none"/>
+  <!-- Cometa 3 -->
+  <g transform="translate(850, -60) rotate(-35)">
+    <rect x="-1" y="0" width="1.5" height="60" fill="url(#comet-tail-vertical)">
+      <animate attributeName="opacity" values="0;1;0" dur="1.3s" begin="5.1s;11.7s;18.3s;24.9s;31.5s;38.1s;44.7s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,280" dur="1.3s" begin="5.1s;11.7s;18.3s;24.9s;31.5s;38.1s;44.7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <path id="rocket-path" d="M-100,20 L1300,180" fill="none" stroke="none"/>
+
+  <!-- Cohete volando -->
+  <g>
+    <animate id="rocketFade" attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.1;0.85;0.95;1" dur="10s" begin="0s;rocketFade.end+8s" fill="freeze"/>
+    <animateMotion id="rocketMove" dur="10s" begin="0s;rocketMove.end+8s" rotate="auto">
+      <mpath href="#rocket-path"/>
+    </animateMotion>
+    <g transform="rotate(90)">
+      <!-- Cuerpo principal del cohete - blanco -->
+      <path d="M0,-20 C8,-20 12,-10 12,5 L12,15 L-12,15 L-12,5 C-12,-10 -8,-20 0,-20Z" fill="white"/>
+      <!-- Ventana - azul -->
+      <circle cx="0" cy="-5" r="5" fill="#58a6ff"/>
+      <circle cx="0" cy="-5" r="3" fill="#0a1628"/>
+      <!-- Aleta izquierda - azul -->
+      <path d="M-12,5 L-22,20 L-12,15Z" fill="#58a6ff"/>
+      <!-- Aleta derecha - azul -->
+      <path d="M12,5 L22,20 L12,15Z" fill="#58a6ff"/>
+      <!-- Fuego exterior - naranja -->
+      <path d="M-8,15 Q0,40 8,15Z" fill="#ffa500">
+        <animate attributeName="d" values="M-8,15 Q0,40 8,15Z;M-8,15 Q0,50 8,15Z;M-8,15 Q0,35 8,15Z;M-8,15 Q0,40 8,15Z" dur="0.4s" repeatCount="indefinite"/>
+      </path>
+      <!-- Fuego interior - amarillo -->
+      <path d="M-5,15 Q0,30 5,15Z" fill="#ffdd00">
+        <animate attributeName="d" values="M-5,15 Q0,30 5,15Z;M-5,15 Q0,38 5,15Z;M-5,15 Q0,25 5,15Z;M-5,15 Q0,30 5,15Z" dur="0.3s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
 
   <!-- Nombre con efecto de parpadeo sutil -->
   <text x="600" y="85" text-anchor="middle" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="bold">
@@ -95,7 +118,7 @@
   </text>
 
   <!-- Título -->
-  <text x="600" y="155" text-anchor="middle" fill="#58a6ff" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="500">
-    Full Stack Developer
+  <text x="600" y="155" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="500">
+    <tspan fill="white">Full Stack</tspan><tspan fill="#58a6ff"> Developer</tspan>
   </text>
 </svg>
