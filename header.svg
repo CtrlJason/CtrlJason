@@ -82,7 +82,7 @@
       <animateTransform attributeName="transform" type="translate" values="0,0;0,280" dur="1.3s" begin="5.1s;11.7s;18.3s;24.9s;31.5s;38.1s;44.7s" repeatCount="indefinite"/>
     </rect>
   </g>
-  <path id="rocket-path" d="M-100,20 L1300,180" fill="none" stroke="none"/>
+  <path id="rocket-path" d="M-100,100 L1300,115" fill="none" stroke="none"/>
 
   <!-- Cohete volando -->
   <g>
