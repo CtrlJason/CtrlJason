@@ -122,6 +122,32 @@ Responsive SPA for senior care services. Clean, accessible UI optimized for targ
 ## Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                986 commits         ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+🌆 Daytime                1884 commits        ████████████░░░░░░░░░░░░░   47.95 % 
+🌃 Evening                712 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+🌙 Night                  347 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Bogota
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
 <!--END_SECTION:waka-->
 
 ---
