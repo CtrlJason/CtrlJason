@@ -124,24 +124,12 @@ Responsive SPA for senior care services. Clean, accessible UI optimized for targ
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 1,569 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                987 commits         ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-🌆 Daytime                1884 commits        ████████████░░░░░░░░░░░░░   47.94 % 
-🌃 Evening                712 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+🌞 Morning                988 commits         ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+🌆 Daytime                1884 commits        ████████████░░░░░░░░░░░░░   47.93 % 
+🌃 Evening                712 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
 🌙 Night                  347 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
 ```
 
