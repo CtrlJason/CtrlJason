@@ -124,20 +124,56 @@ Responsive SPA for senior care services. Clean, accessible UI optimized for targ
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 1,568 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                988 commits         ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-🌆 Daytime                1884 commits        ████████████░░░░░░░░░░░░░   47.93 % 
-🌃 Evening                712 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-🌙 Night                  347 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+🌞 Morning                990 commits         ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+🌆 Daytime                1884 commits        ████████████░░░░░░░░░░░░░   47.90 % 
+🌃 Evening                712 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+🌙 Night                  347 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   554 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Tuesday                  843 commits         █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Wednesday                696 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Thursday                 768 commits         █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Friday                   560 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Saturday                 331 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Sunday                   181 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: America/Bogota
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
 🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -158,6 +194,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CtrlJason/CtrlJason/main/assets/bar_graph.png)
 
 
+ Last Updated on 05/12/2025 15:42:09 UTC
 <!--END_SECTION:waka-->
 
 ---
