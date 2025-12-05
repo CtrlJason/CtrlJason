@@ -119,6 +119,13 @@ Responsive SPA for senior care services. Clean, accessible UI optimized for targ
 
 ---
 
+## Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## GitHub Stats
 
 <div align="center">
