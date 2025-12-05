@@ -122,11 +122,25 @@ Responsive SPA for senior care services. Clean, accessible UI optimized for targ
 ## Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 1,569 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                986 commits         ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-🌆 Daytime                1884 commits        ████████████░░░░░░░░░░░░░   47.95 % 
+🌞 Morning                987 commits         ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+🌆 Daytime                1884 commits        ████████████░░░░░░░░░░░░░   47.94 % 
 🌃 Evening                712 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
 🌙 Night                  347 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
 ```
@@ -135,17 +149,25 @@ Responsive SPA for senior care services. Clean, accessible UI optimized for targ
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/Bogota
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 ```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               21 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+JavaScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+Python                   9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+GDScript                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/CtrlJason/CtrlJason/main/assets/bar_graph.png)
 
 
 <!--END_SECTION:waka-->
