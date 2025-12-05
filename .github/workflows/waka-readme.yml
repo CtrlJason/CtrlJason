@@ -18,7 +18,7 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
           DEBUG_LOGGING: "False"
-          SHOW_TIMELINE: "True"
+          SHOW_TIMELINE: "False"
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
           SHOW_PROJECTS: "True"
