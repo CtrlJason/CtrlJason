@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/yeison-david-mosquera-murillo-55a142222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:yeisondamosquera@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail"></a>
   <a href="https://wa.link/ygzb40" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" alt="WhatsApp"></a>
-  <a href="https://j-dev-solutions-m9394x7x4-ctrljasons-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=fff&style=for-the-badge" alt="Portfolio"></a>
 </p>
 
 ---
@@ -32,7 +31,7 @@ Full Stack Developer with 10 months of experience at CloudCity Colombia, working
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next&theme=dark" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react&theme=dark" alt="Frontend Skills"/>
 </p>
 
 ### Backend
@@ -211,7 +210,6 @@ GDScript                 2 repos             █░░░░░░░░░░�
   <a href="https://www.linkedin.com/in/yeison-david-mosquera-murillo-55a142222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:yeisondamosquera@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail"></a>
   <a href="https://wa.link/ygzb40" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" alt="WhatsApp"></a>
-  <a href="https://j-dev-solutions-m9394x7x4-ctrljasons-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=fff&style=for-the-badge" alt="Portfolio"></a>
 </p>
 
 <p align="center">
