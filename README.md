@@ -20,7 +20,7 @@ Full Stack Developer with 10 months of experience at CloudCity Colombia, working
 
 - **Current Role:** Full Stack Developer at [CloudCity Colombia](https://cloudcity.com.co)
 - **Experience:** 6 months internship + 4 months contract | Production applications
-- **Currently Learning:** Advanced English (A2 → B2), architectural patterns
+- **Currently Learning:** Currently Learning: English (A2 → B1 in progress), System Design patterns, Testing (Jest)
 - **Approach:** Solve problems pragmatically, keep learning, deliver results
 
 ---
@@ -213,5 +213,5 @@ GDScript                 2 repos             █░░░░░░░░░░�
 </p>
 
 <p align="center">
-  <i>Open to opportunities in Colombia | English: A2 (improving)</i>
+  <i>Open to opportunities in Colombia | English A2</i>
 </p>
