@@ -41,7 +41,7 @@ Full Stack Developer with 10 months of experience at CloudCity Colombia, working
 
 ### Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,git,github,vite&theme=dark" alt="Database & Tools"/>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,git,github,vite,bun,postman&theme=dark" alt="Database & Tools"/>
 </p>
 
 ### Other
