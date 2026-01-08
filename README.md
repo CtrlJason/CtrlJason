@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/yeison-david-mosquera-murillo-55a142222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:yeisondamosquera@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail"></a>
   <a href="https://wa.link/ygzb40" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" alt="WhatsApp"></a>
-  <a href="https://j-dev-solutions-m9394x7x4-ctrljasons-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=fff&style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://j-dev-solutions.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=fff&style=for-the-badge" alt="Portfolio"></a>
 </p>
 
 ---
@@ -210,7 +210,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
   <a href="https://www.linkedin.com/in/yeison-david-mosquera-murillo-55a142222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:yeisondamosquera@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail"></a>
   <a href="https://wa.link/ygzb40" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" alt="WhatsApp"></a>
-  <a href="https://j-dev-solutions-m9394x7x4-ctrljasons-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=fff&style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://j-dev-solutions.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=fff&style=for-the-badge" alt="Portfolio"></a>
 </p>
 
 <p align="center">
