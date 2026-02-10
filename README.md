@@ -3,11 +3,11 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;React+%7C+NestJS+%7C+TypeScript;Currently+%40+CloudCity+Colombia" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;React+%7C+NestJS+%7C+TypeScript;Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yeison-david-mosquera-murillo-55a142222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ctrljason/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:yeisondamosquera@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail"></a>
   <a href="https://wa.link/ygzb40" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" alt="WhatsApp"></a>
   <a href="https://j-dev-solutions.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=fff&style=for-the-badge" alt="Portfolio"></a>
@@ -17,11 +17,11 @@
 
 ## About Me
 
-Full Stack Developer with 10 months of experience at CloudCity Colombia, working on real projects for clients like Cámara de Comercio de Bogotá and healthcare companies. I focus on writing clean, maintainable code and learning from each project.
+Full Stack Developer with 1 year of experience at CloudCity Colombia, working on real projects for clients like Cámara de Comercio de Bogotá, ANLA, and IDRD. I focus on building scalable applications with clean, maintainable code.
 
-- **Current Role:** Full Stack Developer at [CloudCity Colombia](https://cloudcity.com.co)
-- **Experience:** 6 months internship + 4 months contract | Production applications
-- **Currently Learning:** Currently Learning: English (A2 → B1 in progress), System Design patterns, Testing (Jest)
+- **Recent Role:** Full Stack Developer at CloudCity Colombia (Jan 2025 - Dec 2025)
+- **Experience:** Production applications for government and private sector clients
+- **Currently Learning:** English (A2 → B1), System Design patterns, Testing (Jest)
 - **Approach:** Solve problems pragmatically, keep learning, deliver results
 
 ---
@@ -60,14 +60,14 @@ Full Stack Developer with 10 months of experience at CloudCity Colombia, working
 ### Educational Games Suite — Cámara de Comercio Bogotá
 **3 entrepreneurship games | Godot Engine**
 
-Developed 3 interactive educational games about entrepreneurship for a Colombian government institution.
+Developed 3 interactive educational games about entrepreneurship for the "Aprende Jugando" portal.
 
-- Full game development in Godot Engine with GDScript
+- Full game development in Godot Engine 4 with GDScript
 - Modular architecture with reusable components
-- Save/load system, analytics tracking, SCORM packaging
-- **Result:** All 3 games delivered on schedule, deployed in production
+- Player progress save system, Google Analytics integration
+- HTML certificate generation on completion
 
-**Stack:** Godot, GDScript, Adobe Animate, SCORM
+**Stack:** Godot 4, GDScript, JavaScript, HTML, Google Analytics
 
 **Live:** [ccb.org.co/aprende-jugando](https://www.ccb.org.co/camara-comercio-bogota/portal-infantil-y-juvenil/ninos-y-jovenes/aprende-jugando)
 
@@ -76,33 +76,49 @@ Developed 3 interactive educational games about entrepreneurship for a Colombian
 ### Falcon — Platform Refactoring
 **Airport wheelchair service management platform**
 
-Refactored a production web application, handling 80% of the architectural overhaul.
+Refactored a production React application to improve maintainability and performance.
 
 **Frontend:**
-- Separated business logic into custom hooks
-- Implemented React Query, React Hook Form with Zod validation
-- Proper TypeScript typing throughout
+- Created custom hooks for code reusability
+- Refactored unnecessary contexts and implemented proper authentication/entity contexts
+- Integrated TanStack Query for API call optimization
+- Implemented lazy loading for heavy dashboard metrics
 
 **Backend:**
-- Repository pattern with service layer
-- Optimized MongoDB queries and indexing
+- Separated controllers, services, and repositories (Repository pattern with Mongoose)
+- Optimized MongoDB indexes for heavy queries
 
-**Result:** Clean architecture delivered in 9 days, deployed to production
+**Result:** Clean, maintainable architecture deployed to production
 
-**Stack:** React, TypeScript, Express, MongoDB, React Query
+**Stack:** React, TypeScript, Express, MongoDB, TanStack Query
 
 ---
 
-### PetPalate — E-commerce Platform
-**Pet health management & natural food store** *(Independent Project)*
+### Moodle Migration — ANLA
+**Complete LMS platform migration**
 
-Full-stack platform for pet health tracking and natural food ordering.
+Migrated thousands of records from MySQL to PostgreSQL for government client ANLA.
 
-- Pet registration with clinical records and medical history
-- E-commerce with customizable product catalog
-- Admin dashboard with reports and statistics
+- Converted MySQL data to PostgreSQL (reviews, blogs, contacts, site configurations)
+- Migrated users using Moodle's native tools
+- Installed modern plugins based on existing ones
+- Created custom PHP 8 plugin for user reports and surveys
 
-**Stack:** React 19, TypeScript, NestJS, Prisma, PostgreSQL, Cloudinary
+**Stack:** Moodle, PostgreSQL, MySQL, PHP 8, Claude Studio
+
+---
+
+### PurePetFood — E-commerce Platform
+**Pet food e-commerce** *(Independent Project)*
+
+Full-stack platform for natural pet food sales with complete admin panel.
+
+- Product catalog management
+- Shopping cart and checkout flow
+- Admin dashboard for orders, products, and users
+- Image management with Cloudinary
+
+**Stack:** React, TypeScript, NestJS, Prisma, PostgreSQL, Cloudinary
 
 **Live:** [purepetfood.com.co](https://www.purepetfood.com.co/)
 
@@ -111,14 +127,16 @@ Full-stack platform for pet health tracking and natural food ordering.
 ### Hogar Abuela Sara
 **Senior care landing page** *(Independent Project)*
 
-Responsive SPA for senior care services. Clean, accessible UI optimized for target audience.
+Responsive informational website for senior care services.
 
-**Stack:** React, Tailwind CSS
+- Clean, accessible UI
+- Contact form with email integration (Django API + Nodemailer)
+
+**Stack:** React, JavaScript, Django, Nodemailer
 
 **Live:** [gerontologicoabuelasara.com.co](https://gerontologicoabuelasara.com.co/)
 
 ---
-
 ## Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
