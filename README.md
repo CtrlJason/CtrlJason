@@ -211,18 +211,18 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 ## What I Bring
 
-- **Fast Learner:** Picked up Godot in 2 months for project delivery
-- **Deadline Focused:** Delivered platform refactoring in 9 days under tight schedule
+- **Fast Learner:** Learned Godot Engine from scratch to deliver 3 games in production
+- **Code Quality:** Experience refactoring legacy code into clean, maintainable architectures
 - **Full-Stack:** Comfortable across frontend, backend, and databases
-- **Clean Code:** I understand separation of concerns and can refactor legacy code
-- **Production Experience:** Shipped real applications used by actual users
+- **Problem Solver:** Adapted to different tech stacks and project requirements
+- **Production Experience:** Shipped applications for government and private sector clients
 
 ---
 
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yeison-david-mosquera-murillo-55a142222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ctrljason/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:yeisondamosquera@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail"></a>
   <a href="https://wa.link/ygzb40" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" alt="WhatsApp"></a>
   <a href="https://j-dev-solutions.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=fff&style=for-the-badge" alt="Portfolio"></a>
