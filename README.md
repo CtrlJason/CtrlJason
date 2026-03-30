@@ -143,21 +143,21 @@ Responsive informational website for senior care services.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                352 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-🌆 Daytime                929 commits         ███████████░░░░░░░░░░░░░░   42.87 % 
-🌃 Evening                530 commits         ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-🌙 Night                  356 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+🌞 Morning                33 commits          █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+🌆 Daytime                68 commits          ███████████░░░░░░░░░░░░░░   44.44 % 
+🌃 Evening                44 commits          ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   359 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Tuesday                  522 commits         ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-Wednesday                304 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Thursday                 294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Friday                   304 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Saturday                 204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Sunday                   180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Monday                   33 commits          █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Tuesday                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Wednesday                24 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Thursday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Friday                   25 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Saturday                 26 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Sunday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 ```
 
 
