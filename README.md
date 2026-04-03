@@ -143,21 +143,21 @@ Responsive informational website for senior care services.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-🌆 Daytime                628 commits         █████████░░░░░░░░░░░░░░░░   37.27 % 
-🌃 Evening                477 commits         ███████░░░░░░░░░░░░░░░░░░   28.31 % 
-🌙 Night                  356 commits         █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+🌞 Morning                226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+🌆 Daytime                628 commits         █████████░░░░░░░░░░░░░░░░   37.23 % 
+🌃 Evening                477 commits         ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+🌙 Night                  356 commits         █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   281 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Tuesday                  415 commits         ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-Wednesday                219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Thursday                 229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Friday                   204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Saturday                 159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Sunday                   178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Monday                   281 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Tuesday                  415 commits         ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+Wednesday                219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Thursday                 229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Friday                   206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Saturday                 159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Sunday                   178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
 ```
 
 
@@ -182,11 +182,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               18 repos            ████████████░░░░░░░░░░░░░   47.37 % 
-JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-GDScript                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+TypeScript               19 repos            ████████████░░░░░░░░░░░░░   48.72 % 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+GDScript                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
