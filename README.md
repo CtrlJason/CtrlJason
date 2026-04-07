@@ -37,7 +37,7 @@ Full Stack Developer with 1 year of experience at CloudCity Colombia, working on
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python&theme=dark" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=express,nestjs,django&theme=dark" alt="Backend Skills"/>
 </p>
 
 ### Database & Tools
