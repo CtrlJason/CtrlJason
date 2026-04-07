@@ -32,7 +32,7 @@ Full Stack Developer with 1 year of experience at CloudCity Colombia, working on
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react&theme=dark" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next&theme=dark" alt="Frontend Skills"/>
 </p>
 
 ### Backend
