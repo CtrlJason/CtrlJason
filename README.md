@@ -17,12 +17,21 @@
 
 ## About Me
 
-Full Stack Developer with 1 year of experience at CloudCity Colombia, working on real projects for clients like Cámara de Comercio de Bogotá, ANLA, and IDRD. I focus on building scalable applications with clean, maintainable code.
+Full Stack Developer based in Bogotá. Currently building at **WindMar Home**, where I'm developing an internal Client Portal with Next.js + NestJS — integrating Twilio (SMS), SendGrid (email), AWS S3 (media), and PostgreSQL via Prisma. Previously spent a year at CloudCity Colombia delivering production work for clients like Cámara de Comercio de Bogotá, ANLA, and IDRD.
 
-- **Recent Role:** Full Stack Developer at CloudCity Colombia (Jan 2025 - Dec 2025)
-- **Experience:** Production applications for government and private sector clients
-- **Currently Learning:** English (A2 → B1), System Design patterns, Testing (Jest)
+- **Current Role:** Full Stack Developer at WindMar Home (Feb 2026 - Present)
+- **Previously:** Full Stack Developer at CloudCity Colombia (Jan 2025 - Dec 2025)
+- **Experience:** Production applications for government and private-sector clients
+- **Currently Learning:** English (A2 → B1), System Design patterns
+- **Off-keyboard:** Videogames and manga
 - **Approach:** Solve problems pragmatically, keep learning, deliver results
+
+---
+
+## Currently Building
+
+- **[Portfolio](https://ctrljason.vercel.app/es/)** — Personal site built with Astro + Tailwind, space-themed visual identity
+- **Personal finance manager** — Side project to track and plan my own finances
 
 ---
 
@@ -225,9 +234,9 @@ PowerShell               1 repo              █░░░░░░░░░░�
   <a href="https://www.linkedin.com/in/ctrljason/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:yeisondamosquera@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail"></a>
   <a href="https://wa.link/ygzb40" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" alt="WhatsApp"></a>
-  <a href="https://j-dev-solutions.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=fff&style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://ctrljason.vercel.app/es/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=fff&style=for-the-badge" alt="Portfolio"></a>
 </p>
 
 <p align="center">
-  <i>Open to opportunities in Colombia | English A2</i>
+  <i>Open to opportunities in Colombia and remote | English A2 → B1</i>
 </p>
