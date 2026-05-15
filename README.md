@@ -149,45 +149,6 @@ Responsive informational website for senior care services.
 ## Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-🌆 Daytime                641 commits         █████████░░░░░░░░░░░░░░░░   37.18 % 
-🌃 Evening                493 commits         ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-🌙 Night                  356 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   286 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Tuesday                  427 commits         ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-Wednesday                223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Thursday                 231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Friday                   210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Saturday                 162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Sunday                   185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Bogota
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
