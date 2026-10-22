@@ -17,7 +17,7 @@
 
 ## About Me
 
-Full Stack Developer based in Bogotá. Currently building at **WindMar Home**, where I'm developing an internal Client Portal with Next.js + NestJS — integrating Twilio (SMS), SendGrid (email), AWS S3 (media), and PostgreSQL via Prisma. Previously spent a year at CloudCity Colombia delivering production work for clients like Cámara de Comercio de Bogotá, ANLA, and IDRD.
+Full Stack Developer based in Bogotá. Currently building at **WindMar Home**, where I'm developing an internal Client Portal with Next.js + NestJS — integrating Twilio (SMS), SendGrid (email), AWS S3 (media), and PostgreSQL with Prisma. Previously spent a year at CloudCity Colombia delivering production work for clients like Cámara de Comercio de Bogotá, ANLA, and IDRD.
 
 - **Current Role:** Full Stack Developer at WindMar Home (Feb 2026 - Present)
 - **Previously:** Full Stack Developer at CloudCity Colombia (Jan 2025 - Dec 2025)
